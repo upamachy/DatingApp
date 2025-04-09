@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal Projects\\Dating App\\DatingAppAPI\\DatingAppAPI\\DatingAppAPI.csproj",
+      "projectUniqueName": "D:\\Personal Projects\\DatingApp\\DatingAppAPI\\DatingAppAPI\\DatingAppAPI.csproj",
       "projectName": "DatingAppAPI",
-      "projectPath": "D:\\Personal Projects\\Dating App\\DatingAppAPI\\DatingAppAPI\\DatingAppAPI.csproj",
+      "projectPath": "D:\\Personal Projects\\DatingApp\\DatingAppAPI\\DatingAppAPI\\DatingAppAPI.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal Projects\\Dating App\\DatingAppAPI\\DatingAppAPI\\obj\\",
+      "outputPath": "D:\\Personal Projects\\DatingApp\\DatingAppAPI\\DatingAppAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
