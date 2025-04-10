@@ -30,3 +30,36 @@ D:\Personal Projects\Dating App\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\refin
 D:\Personal Projects\Dating App\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.pdb
 D:\Personal Projects\Dating App\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.genruntimeconfig.cache
 D:\Personal Projects\Dating App\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\ref\DatingAppAPI.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\appsettings.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\DatingAppAPI.exe
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\DatingAppAPI.deps.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\DatingAppAPI.runtimeconfig.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\DatingAppAPI.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\DatingAppAPI.pdb
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.csproj.AssemblyReference.cache
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.AssemblyInfoInputs.cache
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.AssemblyInfo.cs
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.csproj.CoreCompileInputs.cache
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.sourcelink.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.DatingAppAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DatingAppAPI.props
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatingAppAPI.props
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatingAppAPI.props
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\scopedcss\bundle\DatingAppAPI.styles.css
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAp.FCEB42C5.Up2Date
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\refint\DatingAppAPI.dll
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.pdb
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\DatingAppAPI.genruntimeconfig.cache
+D:\Personal Projects\DatingApp\DatingAppAPI\DatingAppAPI\obj\Debug\net8.0\ref\DatingAppAPI.dll
